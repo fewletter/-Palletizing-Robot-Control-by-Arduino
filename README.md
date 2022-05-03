@@ -1,4 +1,4 @@
-# -Palletizing-Robot-Control-by-Arduino
+# Palletizing-Robot-Control-by-Arduino
 大三機械專題,使用碼垛型機器人來達成專題需求
 
 控制原理:
