@@ -8,3 +8,6 @@
 ![image](https://user-images.githubusercontent.com/80392504/166496154-04a080a4-457e-47b6-baa6-70865a2ccd76.png) 
 ![image](https://user-images.githubusercontent.com/80392504/166496188-7e3116a4-0c56-44df-86f3-a2a8f6305cdd.png)
 
+依照碼朵行機械手臂特性，我們可以將它的機構簡化成上述兩個簡圖。
+    根據機動學向量法:
+	    由於左右兩圖是不同向量圈,但又由於有兩個平行四邊形,而我們已5mm做我們的移動精準度，所以
