@@ -13,3 +13,7 @@
 d代表微分,由於dr/dt為速度,dt為1,所以簡寫為dr
 
 dr4a+ dr4b=5，dr5a+ dr5b=5
+
+![image](https://user-images.githubusercontent.com/80392504/166499668-df4b9619-980a-4fbf-8b7d-4c1ec9131449.png)
+![image](https://user-images.githubusercontent.com/80392504/166499710-d1e42c9e-3caf-433f-a2b4-34d2fea7df68.png)
+![image](https://user-images.githubusercontent.com/80392504/166499750-f25413cf-6c9a-4fff-b95f-2e2252a33e44.png)
